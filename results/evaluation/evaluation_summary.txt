@@ -1,0 +1,234 @@
+STEP 4 - AUGMENTED REALITY EVALUATION
+============================================================
+
+IMAGE 1
+AR_20221115_113319.jpg
+
+G1 angle: 90.00 deg
+G2 angle: 0.00 deg
+G3 angle: 0.00 deg
+G4 angle: 87.96 deg
+R1 angle: 90.00 deg
+R2 angle: -0.70 deg
+
+G1 vs R1: 0.00 deg
+G4 vs R1: 2.04 deg
+G2 vs R2: 0.70 deg
+G3 vs R2: 0.70 deg
+
+Vertical average error: 1.02 deg
+Horizontal average error: 0.70 deg
+Overall angular difference: 0.86 deg
+
+------------------------------------------------------------
+
+IMAGE 2
+AR_20221115_113328.jpg
+
+G1 angle: 88.70 deg
+G2 angle: 0.00 deg
+G3 angle: 2.92 deg
+G4 angle: 91.24 deg
+R1 angle: 90.00 deg
+R2 angle: -2.73 deg
+
+G1 vs R1: 1.30 deg
+G4 vs R1: 1.24 deg
+G2 vs R2: 2.73 deg
+G3 vs R2: 5.64 deg
+
+Vertical average error: 1.27 deg
+Horizontal average error: 4.18 deg
+Overall angular difference: 2.73 deg
+
+------------------------------------------------------------
+
+IMAGE 3
+AR_20221115_113340.jpg
+
+G1 angle: 87.82 deg
+G2 angle: -3.39 deg
+G3 angle: -7.70 deg
+G4 angle: 89.00 deg
+R1 angle: 88.08 deg
+R2 angle: -7.59 deg
+
+G1 vs R1: 0.26 deg
+G4 vs R1: 0.92 deg
+G2 vs R2: 4.20 deg
+G3 vs R2: 0.11 deg
+
+Vertical average error: 0.59 deg
+Horizontal average error: 2.16 deg
+Overall angular difference: 1.37 deg
+
+------------------------------------------------------------
+
+IMAGE 4
+AR_20221115_113346.jpg
+
+G1 angle: 89.48 deg
+G2 angle: 0.00 deg
+G3 angle: 1.19 deg
+G4 angle: 87.44 deg
+R1 angle: 89.01 deg
+R2 angle: -0.59 deg
+
+G1 vs R1: 0.47 deg
+G4 vs R1: 1.57 deg
+G2 vs R2: 0.59 deg
+G3 vs R2: 1.78 deg
+
+Vertical average error: 1.02 deg
+Horizontal average error: 1.19 deg
+Overall angular difference: 1.10 deg
+
+------------------------------------------------------------
+
+IMAGE 5
+AR_20221115_113356.jpg
+
+G1 angle: 88.45 deg
+G2 angle: 0.00 deg
+G3 angle: -1.05 deg
+G4 angle: 88.27 deg
+R1 angle: 90.00 deg
+R2 angle: 0.00 deg
+
+G1 vs R1: 1.55 deg
+G4 vs R1: 1.73 deg
+G2 vs R2: 0.00 deg
+G3 vs R2: 1.05 deg
+
+Vertical average error: 1.64 deg
+Horizontal average error: 0.52 deg
+Overall angular difference: 1.08 deg
+
+------------------------------------------------------------
+
+IMAGE 6
+AR_20221115_113401.jpg
+
+G1 angle: 91.10 deg
+G2 angle: 0.80 deg
+G3 angle: 2.41 deg
+G4 angle: 91.07 deg
+R1 angle: 89.39 deg
+R2 angle: 1.75 deg
+
+G1 vs R1: 1.70 deg
+G4 vs R1: 1.68 deg
+G2 vs R2: 0.94 deg
+G3 vs R2: 0.66 deg
+
+Vertical average error: 1.69 deg
+Horizontal average error: 0.80 deg
+Overall angular difference: 1.25 deg
+
+------------------------------------------------------------
+
+IMAGE 7
+AR_20221115_113412.jpg
+
+G1 angle: 84.82 deg
+G2 angle: -1.55 deg
+G3 angle: 0.00 deg
+G4 angle: 85.50 deg
+R1 angle: 86.82 deg
+R2 angle: 2.85 deg
+
+G1 vs R1: 2.00 deg
+G4 vs R1: 1.32 deg
+G2 vs R2: 4.40 deg
+G3 vs R2: 2.85 deg
+
+Vertical average error: 1.66 deg
+Horizontal average error: 3.62 deg
+Overall angular difference: 2.64 deg
+
+------------------------------------------------------------
+
+IMAGE 8
+AR_20221115_113424.jpg
+
+G1 angle: 86.88 deg
+G2 angle: -3.04 deg
+G3 angle: 2.66 deg
+G4 angle: 87.34 deg
+R1 angle: 87.02 deg
+R2 angle: 2.53 deg
+
+G1 vs R1: 0.15 deg
+G4 vs R1: 0.32 deg
+G2 vs R2: 5.57 deg
+G3 vs R2: 0.12 deg
+
+Vertical average error: 0.23 deg
+Horizontal average error: 2.85 deg
+Overall angular difference: 1.54 deg
+
+------------------------------------------------------------
+
+IMAGE 9
+AR_20221115_113437.jpg
+
+G1 angle: 85.75 deg
+G2 angle: -35.50 deg
+G3 angle: -41.90 deg
+G4 angle: 86.97 deg
+R1 angle: 87.14 deg
+R2 angle: 143.71 deg
+
+G1 vs R1: 1.39 deg
+G4 vs R1: 0.16 deg
+G2 vs R2: 0.79 deg
+G3 vs R2: 5.62 deg
+
+Vertical average error: 0.78 deg
+Horizontal average error: 3.20 deg
+Overall angular difference: 1.99 deg
+
+------------------------------------------------------------
+
+IMAGE 10
+AR_20221115_113440.jpg
+
+G1 angle: 86.95 deg
+G2 angle: 1.01 deg
+G3 angle: -11.27 deg
+G4 angle: 88.05 deg
+R1 angle: 87.73 deg
+R2 angle: -11.98 deg
+
+G1 vs R1: 0.79 deg
+G4 vs R1: 0.31 deg
+G2 vs R2: 12.99 deg
+G3 vs R2: 0.71 deg
+
+Vertical average error: 0.55 deg
+Horizontal average error: 6.85 deg
+Overall angular difference: 3.70 deg
+
+------------------------------------------------------------
+
+IMAGE 11
+FAILED_20221115_113635.jpg
+
+G1 angle: 88.65 deg
+G2 angle: -4.49 deg
+G3 angle: 2.52 deg
+G4 angle: 88.40 deg
+R1 angle: 89.73 deg
+R2 angle: -0.94 deg
+
+G1 vs R1: 1.08 deg
+G4 vs R1: 1.33 deg
+G2 vs R2: 3.54 deg
+G3 vs R2: 3.46 deg
+
+Vertical average error: 1.21 deg
+Horizontal average error: 3.50 deg
+Overall angular difference: 2.36 deg
+
+------------------------------------------------------------
+
